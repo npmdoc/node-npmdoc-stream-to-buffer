@@ -1,4 +1,7 @@
-# api documentation for  [stream-to-buffer (v0.1.0)](https://github.com/jonathanong/stream-to-buffer#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-stream-to-buffer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-stream-to-buffer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-stream-to-buffer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-stream-to-buffer)
+# npmdoc-stream-to-buffer
+
+#### basic api documentation for  [stream-to-buffer (v0.1.0)](https://github.com/jonathanong/stream-to-buffer#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-stream-to-buffer.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-stream-to-buffer) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-stream-to-buffer.svg)](https://travis-ci.org/npmdoc/node-npmdoc-stream-to-buffer)
+
 #### Concatenate a readable stream's data into a single buffer
 
 [![NPM](https://nodei.co/npm/stream-to-buffer.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stream-to-buffer)
@@ -52,7 +55,8 @@
         "type": "git",
         "url": "git+https://github.com/jonathanong/stream-to-buffer.git"
     },
-    "version": "0.1.0"
+    "version": "0.1.0",
+    "bin": {}
 }
 ```
 
